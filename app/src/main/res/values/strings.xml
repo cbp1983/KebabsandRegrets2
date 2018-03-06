@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kebabs and Regrets</string>
+    <string name="christoffer">Christoffer</string>
+    <string name="zero">0</string>
+    <string name="kebab">Kebab</string>
+    <string name="plov">Plov</string>
+    <string name="regret">Regret</string>
+    <string name="regrets">Regrets</string>
+    <string name="satisfaction">Satisfaction</string>
+    <string name="patrick">Patrick</string>
+    <string name="robbed">Robbed by police</string>
+    <string name="reset">Reset</string>
+</resources>

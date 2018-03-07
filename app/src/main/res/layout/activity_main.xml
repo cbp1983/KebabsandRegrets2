@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.example.android.kebabsandregrets.MainActivity">
 
     <ImageView
@@ -28,7 +29,6 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:text="@string/christoffer"
-                android:textColor="#000000"
                 android:textSize="28sp" />
 
             <TextView
@@ -39,7 +39,6 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/zero"
-                android:textColor="#000000"
                 android:textSize="56sp" />
 
             <TextView
@@ -50,7 +49,6 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/zero"
-                android:textColor="#000000"
                 android:textSize="24sp" />
 
             <Button
@@ -96,7 +94,6 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:text="@string/patrick"
-                android:textColor="#000000"
                 android:textSize="28sp" />
 
             <TextView
@@ -107,7 +104,6 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/zero"
-                android:textColor="#000000"
                 android:textSize="56sp" />
 
             <TextView
@@ -118,7 +114,6 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/zero"
-                android:textColor="#000000"
                 android:textSize="24sp" />
 
             <Button
@@ -181,7 +176,6 @@
         android:layout_marginTop="56dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/satisfaction"
-        android:textColor="#000000"
         android:textSize="22sp" />
 
     <TextView
@@ -192,7 +186,6 @@
         android:layout_marginTop="130dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/regrets"
-        android:textColor="#000000"
         android:textSize="18sp" />
 
 </RelativeLayout>

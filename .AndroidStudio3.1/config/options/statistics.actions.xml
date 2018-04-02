@@ -1,0 +1,97 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="3" />
+      <entry action="$Redo" count="9" />
+      <entry action="$SelectAll" count="4" />
+      <entry action="$Undo" count="309" />
+      <entry action="Add On Demand Static Import" count="2" />
+      <entry action="Add Single-Member Static Import" count="1" />
+      <entry action="Add method qualifier" count="1" />
+      <entry action="Android Quick Fixes" count="1" />
+      <entry action="Android.BuildApk" count="2" />
+      <entry action="Android.CreateResourceDirectory" count="2" />
+      <entry action="Android.HotswapChanges" count="11" />
+      <entry action="AssociateWithFileType" count="1" />
+      <entry action="ChangesView.Move" count="2" />
+      <entry action="CheckinFiles" count="2" />
+      <entry action="CheckinProject" count="4" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create field for parameter" count="1" />
+      <entry action="Create method from usage" count="2" />
+      <entry action="Debug" count="9" />
+      <entry action="Delete element" count="1" />
+      <entry action="Edit method contract" count="1" />
+      <entry action="EditorBackSpace" count="1877" />
+      <entry action="EditorChooseLookupItem" count="2" />
+      <entry action="EditorChooseLookupItemReplace" count="593" />
+      <entry action="EditorCopy" count="71" />
+      <entry action="EditorCut" count="36" />
+      <entry action="EditorDelete" count="201" />
+      <entry action="EditorDown" count="2140" />
+      <entry action="EditorDownWithSelection" count="100" />
+      <entry action="EditorEnter" count="433" />
+      <entry action="EditorEscape" count="11" />
+      <entry action="EditorIndentSelection" count="2" />
+      <entry action="EditorLeft" count="468" />
+      <entry action="EditorLeftWithSelection" count="78" />
+      <entry action="EditorLineEnd" count="8" />
+      <entry action="EditorLineEndWithSelection" count="7" />
+      <entry action="EditorLineStart" count="10" />
+      <entry action="EditorLineStartWithSelection" count="17" />
+      <entry action="EditorNextWord" count="167" />
+      <entry action="EditorNextWordWithSelection" count="87" />
+      <entry action="EditorPageUp" count="4" />
+      <entry action="EditorPaste" count="149" />
+      <entry action="EditorPreviousWord" count="186" />
+      <entry action="EditorPreviousWordWithSelection" count="112" />
+      <entry action="EditorRight" count="310" />
+      <entry action="EditorRightWithSelection" count="33" />
+      <entry action="EditorSplitLine" count="4" />
+      <entry action="EditorTab" count="61" />
+      <entry action="EditorTextStart" count="2" />
+      <entry action="EditorUp" count="1093" />
+      <entry action="EditorUpWithSelection" count="47" />
+      <entry action="Expand Static Import" count="1" />
+      <entry action="ExportSettings" count="1" />
+      <entry action="Find" count="4" />
+      <entry action="Generate" count="1" />
+      <entry action="Git.Add" count="1" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Init" count="2" />
+      <entry action="Git.Log" count="1" />
+      <entry action="Git.Rebase" count="1" />
+      <entry action="Github.Rebase" count="2" />
+      <entry action="Github.Share" count="7" />
+      <entry action="Go to super method" count="1" />
+      <entry action="GotoDeclaration" count="1" />
+      <entry action="HideAllWindows" count="5" />
+      <entry action="Import class" count="1" />
+      <entry action="Import static method  android.support.v4.content.ContextCompat.startActivity " count="2" />
+      <entry action="ImportSettings" count="1" />
+      <entry action="Introduce local variable" count="2" />
+      <entry action="Make Final" count="2" />
+      <entry action="Move assignment to field declaration" count="1" />
+      <entry action="NewClass" count="2" />
+      <entry action="NewProject" count="1" />
+      <entry action="OpenFile" count="1" />
+      <entry action="Optimize imports" count="1" />
+      <entry action="RearrangeCode" count="1" />
+      <entry action="ReformatCode" count="19" />
+      <entry action="Remove redundant initializer" count="1" />
+      <entry action="Rename Wrong Reference" count="3" />
+      <entry action="RevealIn" count="9" />
+      <entry action="Run" count="43" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowIntentionActions" count="13" />
+      <entry action="ShowSettings" count="2" />
+      <entry action="Split Declaration" count="1" />
+      <entry action="Stop" count="1" />
+      <entry action="Surround with try/catch" count="1" />
+      <entry action="Switcher" count="1" />
+      <entry action="ToggleLineBreakpoint" count="2" />
+      <entry action="Vcs.Push" count="5" />
+      <entry action="Vcs.UpdateProject" count="2" />
+    </counts>
+  </component>
+</application>

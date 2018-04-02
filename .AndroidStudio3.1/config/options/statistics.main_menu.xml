@@ -1,0 +1,25 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Build APK(s)" count="2" />
+      <entry path="Code -&gt; Rearrange Code" count="1" />
+      <entry path="Code -&gt; Reformat Code" count="2" />
+      <entry path="File -&gt; Export Settings..." count="1" />
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="10" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="1" />
+      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="5" />
+      <entry path="VCS -&gt; Git -&gt; Rebase my GitHub fork" count="2" />
+      <entry path="VCS -&gt; Git -&gt; Rebase..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="2" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="7" />
+      <entry path="VCS -&gt; Update Project" count="2" />
+    </counts>
+  </component>
+</application>
